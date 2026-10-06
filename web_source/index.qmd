@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the UCL Biosciences travel plan"
+title: "Welcome to the MRC CoRE CTI travel plan"
 toc: false
 ---
 
