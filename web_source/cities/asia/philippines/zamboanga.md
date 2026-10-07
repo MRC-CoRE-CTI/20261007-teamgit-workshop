@@ -4,12 +4,12 @@ Country: Philippines (Asia)
 
 ##### Also known as:
 
-FIXME
+Bagbenwa Sembwangan
 
 ### What we would like to see there
 
-FIXME
+Pink Sand Beach
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Zamboanga_City)
