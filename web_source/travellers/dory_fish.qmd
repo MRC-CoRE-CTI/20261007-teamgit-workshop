@@ -1,0 +1,30 @@
+---
+title: "Dory"
+subtitle: "Under the sea"
+image: "https://en.wikipedia.org/wiki/Dory_%28Finding_Nemo%29#/media/File:Dory_(Finding_Nemo).png"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Everyone knows who Dory is!
+
+## Travelled cities
+
+- Great Barrier Reef in Australia
+- Marine Life Institute in Morro Bay on the Central Coast of California
