@@ -1,0 +1,32 @@
+---
+title: "Odysseus"
+subtitle: "King of Ithaca"
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Head_Odysseus_MAR_Sperlonga.jpg/500px-Head_Odysseus_MAR_Sperlonga.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Odysseus was the king of Ithaca and the hero of The Odyssey. He travelled for ten years after the Trojan War.
+
+## Travelled cities
+
+- Troy
+- Cicones
+- Circe's island
+- Thrinacia
