@@ -1,0 +1,31 @@
+---
+title: "xinyan2002"
+subtitle: "just a random guy"
+image: https://github.com/xinyan-yu2002.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+xinyan2002 is a Chinese guy who is new to London. He wants to enjoy his time here.
+
+## Travelled cities
+
+- Nanjing
+- Beijing
+- Shanghai
