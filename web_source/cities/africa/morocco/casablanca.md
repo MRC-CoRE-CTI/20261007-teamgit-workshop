@@ -4,12 +4,12 @@ Country: Morocco (Africa)
 
 ##### Also known as:
 
-FIXME
+The White House
 
 ### What we would like to see there
 
-FIXME
+Hassan II Mosque
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Casablanca)
