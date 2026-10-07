@@ -4,12 +4,14 @@ Country: Japan (Asia)
 
 ##### Also known as:
 
-FIXME
+City of Peace
 
 ### What we would like to see there
 
-FIXME
+-Hiroshima Peace Memorial Museum and Park
+-A-bomb Dome
+- Miyajima
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Hiroshima)
