@@ -4,12 +4,12 @@ Country: Finland (Europe)
 
 ##### Also known as:
 
-FIXME
+Åbo (Swedish)
 
 ### What we would like to see there
 
-FIXME
+Turku's Funicular — Finland's first outdoor cable railway system located in a city!
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Turku)
