@@ -11,7 +11,7 @@ Info for python researchers: R is better. Still, you can:
 
 ```{python}
 import math
-print (f"{(math.e**(math.pi*1j)) + 1:.2f}")
+print (f"{(math.e**(math.pi*1j)) + 1:.3f}")
 ```
 
 ### and can include graphs
