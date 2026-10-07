@@ -4,13 +4,13 @@ Country: South Africa (Africa)
 
 ##### Also known as:
 
-FIXME
+Kaapstad
 
 ### What we would like to see there
 
-FIXME
+ Penguins at Boulders Beach
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Cape_Town)
 
