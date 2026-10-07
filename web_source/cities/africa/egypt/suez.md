@@ -4,12 +4,12 @@ Country: Egypt (Africa)
 
 ##### Also known as:
 
-FIXME
+successor of the ancient Egyptian city of Clysma
 
 ### What we would like to see there
 
-FIXME
+the blue background refers to the sea, the gear refers to Suez's status as an industrial governorate, and the flame refers to the petroleum firms of Suez.
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Suez)
