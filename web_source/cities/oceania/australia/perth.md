@@ -4,12 +4,12 @@ Country: Australia (Oceania)
 
 ##### Also known as:
 
-FIXME
+Boorloo 
 
 ### What we would like to see there
 
-FIXME
+Swan Bells
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Perth)
