@@ -1,0 +1,31 @@
+---
+title: "Susanna Gentile"
+subtitle: "Obsessive walker"
+image: https://github.com/SusannaGentile.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Wander around the world while searching for yummy food
+
+## Travelled cities
+
+- Kyoto
+- Sarajevo
+- New York
