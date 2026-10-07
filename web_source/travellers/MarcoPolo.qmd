@@ -1,0 +1,31 @@
+---
+title: "Marco Polo"
+subtitle: "Travelling on the Silk Road"
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQrJMM5qsgEnlhb-2CAJFjcV-GEdZZ5Qa6I3eoxX_TQ&s=10
+toc: false
+about:
+  id: https://en.wikipedia.org/wiki/Marco_Polo
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Marco Polo really liked silk. And he travelled all the way to CHina well before planes or trains or even bikes were invented.
+
+## Travelled cities
+
+- Chengdu
+- Suez
+- Kolkata
