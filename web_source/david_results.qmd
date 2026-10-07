@@ -1,0 +1,21 @@
+---
+title: "Python Researchers"
+jupyter: python3
+---
+## Introduction
+
+This is my amazing experiment
+
+
+```{python}
+print(f"This is amazing {2+1}")
+# plot
+fig, ax = plt.subplots()
+ax.pie(x, colors=colors, radius=3, center=(4, 4),
+       startangle=315)
+
+ax.set(xlim=(0, 8), xticks=[],
+       ylim=(0, 8), yticks=[],)
+
+plt.show()
+```
