@@ -9,7 +9,7 @@ Info for R researchers.
 ### In R
 
 ```{r}
-round(exp(1i * pi) + 5, digits = 2)
+round(exp(1i * pi) + 2, digits = 2)
 ```
 
 ### and can include graphs
