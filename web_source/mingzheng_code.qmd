@@ -16,9 +16,10 @@ format:
 #| fig-cap: "Temperature and ozone level."
 #| warning: false
 
-library(ggplot2)
+# This needs ggplot to be installed
+# library(ggplot2)
 
-ggplot(airquality, aes(Temp, Ozone)) + 
-  geom_point() + 
-  geom_smooth(method = "loess")
+# ggplot(airquality, aes(Temp, Ozone)) + 
+#   geom_point() + 
+#   geom_smooth(method = "loess")
 ```
