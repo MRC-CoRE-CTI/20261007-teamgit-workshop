@@ -11,4 +11,5 @@ Info for python researchers.
 
 ```{python}
 print ("Hello, world!")
+print ("Hello, GitHub!")
 ```
