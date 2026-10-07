@@ -12,5 +12,5 @@ Kaapstad
 
 ### Extra information
 
-- Link to [wikipedia] (https://en.wikipedia.org/wiki/Cape_Town)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Cape_Town)
 
