@@ -4,12 +4,12 @@ Country: Portugal (Europe)
 
 ##### Also known as:
 
-FIXME
+Coimbra
 
 ### What we would like to see there
 
-FIXME
+Santa Cruz Monastery
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Coimbra)
