@@ -4,12 +4,12 @@ Country: Ethiopia (Africa)
 
 ##### Also known as:
 
-FIXME
+Aksum
 
 ### What we would like to see there
 
-FIXME
+Historical sites
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Axum)
