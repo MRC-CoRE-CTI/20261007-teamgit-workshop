@@ -1,0 +1,25 @@
+---
+title: "Rrresearchers"
+---
+
+Info for R researchers.
+
+## Can include code chunks
+
+### In R
+
+```{r}
+round(exp(1i * pi) + 2, digits = 2)
+```
+
+### and can include graphs
+
+
+```{r}
+pie(
+  c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5),
+  init.angle = 315,
+  col = c("deepskyblue", "yellow", "yellow3"),
+  border = FALSE
+)
+```
