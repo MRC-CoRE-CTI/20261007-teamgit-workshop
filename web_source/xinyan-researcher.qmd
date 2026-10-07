@@ -1,0 +1,14 @@
+---
+title: "xinyan-researcher"
+jupyter: python3
+---
+
+Info for python researchers.
+
+## Can include code chunks
+
+### In Python
+
+```{python}
+print ("Hello, world!")
+```
