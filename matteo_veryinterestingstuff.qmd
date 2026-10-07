@@ -1,0 +1,24 @@
+---
+title: "matteo_veryinterestingstuff"
+jupyter: python3
+---
+
+Info for python researchers: R is better. Still, you can:
+
+## Can include code chunks
+
+### In Python
+
+```{python}
+import math
+print (f"{(math.e**(math.pi*1j)) + 1:.2f}")
+```
+
+### and can include graphs
+
+```{python}
+import matplotlib.pyplot as plt
+import numpy as np
+
+plt.style.use('_mpl-gallery-nogrid')
+
