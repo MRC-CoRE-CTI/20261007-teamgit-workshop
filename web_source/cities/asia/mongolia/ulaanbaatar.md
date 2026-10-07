@@ -12,4 +12,4 @@ The Tumen Ekh Ensemble comprises artists who perform all types of Mongolian song
 
 ### Extra information
 
-- Link to [wikipedia]([https://wikipedia.org/FIXME](https://en.wikipedia.org/wiki/Ulaanbaatar))
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Ulaanbaatar)
