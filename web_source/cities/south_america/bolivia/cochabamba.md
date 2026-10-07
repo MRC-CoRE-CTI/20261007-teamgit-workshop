@@ -4,12 +4,12 @@ Country: Bolivia (S. America)
 
 ##### Also known as:
 
-FIXME
+La Llajta
 
 ### What we would like to see there
 
-FIXME
+Cristo de la Concordia statue
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Cochabamba)
