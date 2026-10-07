@@ -22,7 +22,7 @@ about:
 
 ## Biography
 
-Test
+This is a test biography.
 
 ## Travelled cities
 
