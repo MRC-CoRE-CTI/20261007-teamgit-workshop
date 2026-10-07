@@ -1,0 +1,13 @@
+---
+title: "Rrrresearchers"
+---
+
+Info for R researchers.
+
+## Can include code chunks
+
+### In R
+
+```{r}
+round(exp(1i * pi) + 1, digits = 2)
+```
