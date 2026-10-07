@@ -26,6 +26,6 @@ Photographer/guitarist
 
 ## Travelled cities
 
-- FIXME - Devon
-- FIXME - New York
-- FIXME - Sydney
+- Devon
+- New York
+- Sydney
