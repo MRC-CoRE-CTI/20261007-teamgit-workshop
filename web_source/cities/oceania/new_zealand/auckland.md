@@ -1,4 +1,6 @@
-<img width="2860" height="1354" alt="image" src="https://github.com/user-attachments/assets/b3f0bc4f-5918-4bce-b3e8-874e21447f1b" /># Auckland
+# Auckland
+
+<img width="2860" height="1354" alt="image" src="https://github.com/user-attachments/assets/b3f0bc4f-5918-4bce-b3e8-874e21447f1b" />
 
 Country: New Zealand (Oceania)
 
