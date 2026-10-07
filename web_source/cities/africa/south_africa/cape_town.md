@@ -8,7 +8,7 @@ Kaapstad
 
 ### What we would like to see there
 
- Penguins at Boulder's Beach
+ Penguins at Boulders Beach
 
 ### Extra information
 
