@@ -8,7 +8,7 @@ Mile High City
 
 ### What we would like to see there
 
-Red Rocks Amphitheatre & Rocky Mountains
+Red Stones Amphitheatre & Rocky Mountains & Bears
 
 ### Extra information
 
